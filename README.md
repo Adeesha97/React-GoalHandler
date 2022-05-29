@@ -14,3 +14,5 @@ jsonwebtoken
 <h3>Frontend</h3>
 
 Redux
+react-router-dom
+react-icons
