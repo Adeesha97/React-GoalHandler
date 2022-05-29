@@ -1,6 +1,6 @@
 <h1>Installed packages</h1>
 
-Backend
+<h3> Backend </h3>
 
 express
 dotenv
@@ -11,6 +11,6 @@ express-async-handler
 bcryptjs
 jsonwebtoken
 
-Frontend
+<h3>Frontend</h3>
 
 Redux
