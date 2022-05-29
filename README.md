@@ -6,3 +6,5 @@ mongoose
 colors
 nodemon
 express-async-handler
+bcryptjs
+jsonwebtoken
