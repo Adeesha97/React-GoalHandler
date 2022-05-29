@@ -1,4 +1,4 @@
-Installed packages
+<h1>Installed packages</h1>
 
 Backend
 
