@@ -16,3 +16,5 @@ jsonwebtoken
 Redux
 react-router-dom
 react-icons
+
+concurrently
