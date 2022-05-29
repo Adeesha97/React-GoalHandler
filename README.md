@@ -1,5 +1,7 @@
 Installed packages
 
+Backend
+
 express
 dotenv
 mongoose
@@ -8,3 +10,7 @@ nodemon
 express-async-handler
 bcryptjs
 jsonwebtoken
+
+Frontend
+
+Redux
